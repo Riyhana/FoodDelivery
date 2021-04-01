@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "FoodDelivery",
+    "slug": "food-delivery",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/foods.png",
+    
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    
+    "android": {
+      
+    }
+  }
+}
